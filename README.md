@@ -1,5 +1,5 @@
 
-# FineTuning VisionLLM on DGX Spark
+# FineTuning VisionLM on DGX Spark
 
  
 
